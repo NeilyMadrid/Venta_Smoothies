@@ -58,10 +58,12 @@ Encuentre el código del pseudocódigo en:
 Encuentre el código del Ejercicio de programación estructurada en:
 ![link-programacion-estructurada](/AplicacionSmoothies/SmothiesEstructurado.java)
 
+
 Encuentre el código del Ejercicio de programación POO en:
-SmoothiesPOO
+
+SmoothiesPOO:
 ![link-programacion-poo-clase1](/AplicacionSmoothies/SmoothiesPOO.java)
 
-MainSmoothies
+MainSmoothies:
 ![link-programacion-poo-clase2](/AplicacionSmoothies/MainSmoothies.java)
 
