@@ -15,7 +15,7 @@ Aclaraciones:
 
 
 Imagen Caso de Uso:
-![imagen-caso-uso](/documentacion/DiagramaCasoUso.png)
+![imagen-caso-uso](/Documentacion/DiagramaCasoUso.png)
 
 Detalles de caso de uso:
 Se crea caso de uso de uso para cliente y administrador del local.
@@ -41,16 +41,16 @@ Curso normal del evento:
 3. Al finalizar el proceso, el administrador puede limpiar los valores almacenados en memoria correspondientes a las ventas.
 
 Imagen Historias de usuario jira:
-![imagen-historiasUsuario](/documentacion/HistoriasUsuarioJira.png)
+![imagen-historiasUsuario](/Documentacion/HistoriasUsuarioJira.png)
 
 Imagen Historia usuario cliente:
-![imagen-historiasUsuarioCliente](/documentacion/HU_01.png)
+![imagen-historiasUsuarioCliente](/Documentacion/HU_01.png)
 
 Imagen Historia usuario Administrador:
-![imagen-historiasUsuarioAdmin](/documentacion/HU_02.png)
+![imagen-historiasUsuarioAdmin](/Documentacion/HU_02.png)
 
 Imagen Diagrama de flujo:
-![imagen-diagrama-flujo](/documentacion/DFD.png)
+![imagen-diagrama-flujo](/Documentacion/DFD.png)
 
 Encuentre el código del pseudocódigo en:
 ![link-pseudocodigo](/Pseudocodigo/VentaSmoothie.psc)
